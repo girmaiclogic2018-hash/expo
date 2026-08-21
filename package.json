@@ -27,7 +27,8 @@
     "@types/babel__generator": "^7.27.0",
     "@types/babel__template": "^7.4.4",
     "@types/babel__traverse": "^7.20.7",
-    "**/util": "~0.12.4"
+    "**/util": "~0.12.4",
+    "@expo/metro": "file:./tarballs/expo-metro-v55.1.2.tgz"
   },
   "dependencies": {
     "eslint": "^8.57.1",
